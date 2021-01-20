@@ -3,6 +3,7 @@ dans le fichier .gitlab-ci.yml sur la branche master mettez en place  un pipelin
 - BUILD
 - TEST
 - DEPLOY
-chaque job de chaque stage  doit avoir une partie script ( echo "build" par exemple le job:build du stage build)
-mettez deux jobs test:unit et test:fonctionnel  pour le stage TEST 
-lancez le pipeline 
+
+- chaque job de chaque stage  doit avoir une partie script ( echo "build" par exemple pour le job:build du stage build)
+- mettez deux jobs test:unit et test:fonctionnel  pour le stage TEST 
+- lancez le pipeline 
