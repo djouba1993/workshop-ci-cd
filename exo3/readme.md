@@ -1,4 +1,4 @@
-## exo3 si vous 
+## exo3 
 
 - installer docker sur votre machine si vous l'avez pas déjà   
 - créer un  container runner en recupérer l'image dans le hub de docker https://hub.docker.com/r/gitlab/gitlab-runner
